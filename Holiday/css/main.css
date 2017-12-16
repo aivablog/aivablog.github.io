@@ -365,9 +365,9 @@ button.btn.btn-default.subs {
 
 .free_trial {
     display: block;
-    width: 60%;
+    width: 60% !important;
     text-align: center;
-margin: 2px 5px;
+margin-left: 20% !important;
 }
 
 /*nav*/
