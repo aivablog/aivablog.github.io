@@ -349,7 +349,9 @@ height: 160px;}
 .post_menu ul li a {
     padding: 23px 6px;
 }
-
+.blog_inner img{
+	width:100%;
+}
 .input-group {
     width: 45%;
 }
